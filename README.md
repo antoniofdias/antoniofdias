@@ -1,4 +1,4 @@
-<img align="right" src="./images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/antoniofdias/antoniofdias/blob/master/images/illustration.png" width="300"/>
 
 ### Hi, I'm Tom 👋
 
